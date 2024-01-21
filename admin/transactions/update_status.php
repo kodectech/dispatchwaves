@@ -18,6 +18,7 @@ if(isset($_GET['id']) && $_GET['id'] > 0){
 			<select name="status" id="status" class="form-control form-control-sm rounded-0" required>
 			<option value="0" <?php echo isset($status) && $status == 0 ? 'selected' : '' ?>>Pending</option>
 			<option value="1" <?php echo isset($status) && $status == 1 ? 'selected' : '' ?>>In-Transit</option>
+			<option value="6" <?php echo isset($status) && $status == 6 ? 'selected' : '' ?>>In-Transit</option>
 			<option value="5" <?php echo isset($status) && $status == 5 ? 'selected' : '' ?>>Pending</option>
 			<option value="2" <?php echo isset($status) && $status == 2 ? 'selected' : '' ?>>Arrive at Station</option>
 			<option value="3" <?php echo isset($status) && $status == 3 ? 'selected' : '' ?>>Out for Delivery</option>

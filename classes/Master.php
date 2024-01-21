@@ -203,7 +203,7 @@ Class Master extends DBConnection {
 	function update_cargo_type(){
 		extract($_POST);
 		$update = $this->conn->query("UPDATE `cargo_list` set `status` = '{$status}' where id ='{$id}'");
-		$status_lbl = ['Pending','In-Transit','Arrive at Station', 'Out for Delivery', 'Delivered', 'Pending'];
+		$status_lbl = ['Pending','In-Transit','Arrive at Station', 'Out for Delivery', 'Delivered', 'Pending', 'In-Transit'];
 		if($update){
 			$resp['status'] = 'success';
 			$resp['msg'] = " Shipment Status has been updated.";

@@ -37,6 +37,8 @@ $status = isset($status) ? $status : '';
             <div class="text-right">
                 <?php if($status == 1): ?>
                     <span class="badge badge-primary badge-lg bg-gradient-primary px-3 rounded-pill">In-Transit</span>
+                <?php elseif($status == 6): ?>
+                    <span class="badge badge-primary badge-lg bg-gradient-primary px-3 rounded-pill">In-Transit</span>
                 <?php elseif($status == 2): ?>
                     <span class="badge badge-warning badge-lg bg-gradient-warning px-3 rounded-pill">Arrived at Station</span>
                 <?php elseif($status == 3): ?>

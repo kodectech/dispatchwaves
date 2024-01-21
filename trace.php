@@ -826,18 +826,24 @@ if($qry->num_rows > 0){
                              if($status == 1){
                                 echo '
                                 <span class="badge badge-primary badge-lg bg-gradient-primary px-3 rounded-pill">In-Transit</span>';
-                                echo '<span style="color: red; font-size: 12px;">  35% Completed </span>';
+                                echo '<span style="color: red; font-size: 12px;">  40% Completed </span>';
+                                
+                             }
+                             elseif($status == 6){
+                                echo '
+                                <span class="badge badge-primary badge-lg bg-gradient-primary px-3 rounded-pill">In-Transit</span>';
+                                echo '<span style="color: red; font-size: 12px;">  62% Completed </span>';
                                 
                              }
                             elseif($status == 2){
                                 echo '
                                 <span class="badge badge-warning badge-lg bg-gradient-warning px-3 rounded-pill">Arrived at Station</span>';
-                                echo '<span style="color: red; font-size: 12px;">  75% Completed </span>';
+                                echo '<span style="color: red; font-size: 12px;">  86% Completed </span>';
                             }
                             elseif($status == 3){
                                 echo '
                                 <span class="badge badge-light badge-lg bg-gradient-light border px-3 rounded-pill">Out for Delivery</span>';
-                                echo '<span style="color: red; font-size: 12px;">  88% Completed </span>';
+                                echo '<span style="color: red; font-size: 12px;">  91% Completed </span>';
                                 
                             }
                             elseif($status == 4){
@@ -849,7 +855,7 @@ if($qry->num_rows > 0){
                             elseif($status == 5){
                                 echo '
                                 <span class="badge badge-secondary badge-lg bg-gradient-success px-3 rounded-pill">Pending</span>';
-                                echo '<span style="color: red; font-size: 12px;">  45% Completed </span>';
+                                echo '<span style="color: red; font-size: 12px;">  78% Completed </span>';
                             
                             }
                             else{
