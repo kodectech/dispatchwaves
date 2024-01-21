@@ -70,7 +70,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>CargoForceLines - Stepping over the hedge</title>
+    <title>dispatchwaves - Stepping over the hedge</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
@@ -103,7 +103,7 @@
                 <div class="d-inline-flex align-items-center text-white">
                     <small style="font-size: 12px"><i class="fa fa-phone-alt mr-2"></i>(216) 505-0382</small>
                     <small class="px-3">|</small>
-                    <small style="font-size: 12px"><i class="fa fa-envelope mr-2"></i>info@cargoforcelines.com</small>
+                    <small style="font-size: 12px"><i class="fa fa-envelope mr-2"></i>info@dispatchwaves.com</small>
                 </div>
             </div>
             <div class="col-lg-6 text-center text-lg-right">
@@ -197,9 +197,9 @@
                 <div class="col-lg-7">
                     <h6 class="text-primary text-uppercase font-weight-bold">About Us</h6>
                     <h1 class="mb-4">Trusted & Faster Logistic Service Provider</h1>
-                    <p class="mb-4">Cargo-Force Lines began its story in 2016, when its founding leader Jack Force founded the company with an alliance of grand and trusted personels.<br>
+                    <p class="mb-4">DispatchWaves began its story in 2016, when its founding leader Jack Force founded the company with an alliance of grand and trusted personels.<br>
                         It is a global leader in cargo, logistics and delivery; with a special focus on building strong and long term partnership with customers of all sizes. This is our driving force to render services with a global touch.<br><br>
-                    <em>"Our staff are the lifeblood of the company, they have commitment, passion and loyalty, which, alongside unrivalled expertise makes Cargo-Force Lines an ideal shipping of the people".</em></p>
+                    <em>"Our staff are the lifeblood of the company, they have commitment, passion and loyalty, which, alongside unrivalled expertise makes DispatchWaves an ideal shipping of the people".</em></p>
                     <!-- <div class="d-flex align-items-center pt-2">
                         <button type="button" class="btn-play" data-toggle="modal"
                             data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
@@ -523,7 +523,7 @@
                             <small class="text-dark">- Professor</small>
                         </div>
                     </div>
-                    <p class="m-0 text-dark">Their services are remarkable, reliable and onpoint. Cargo-Force Lines all the way</p>
+                    <p class="m-0 text-dark">Their services are remarkable, reliable and onpoint. DispatchWaves all the way</p>
                 </div>
                 <div class="position-relative bg-secondary p-4">
                     <i class="fa fa-3x fa-quote-right text-primary position-absolute" style="top: -6px; right: 0;"></i>
@@ -534,7 +534,7 @@
                             <small class="text-dark">- Real Estate Agent</small>
                         </div>
                     </div>
-                    <p class="m-0 text-dark">I have never experienced a fast delivery with no error whatsoever. Keep it up Cargo-Force Lines.</p>
+                    <p class="m-0 text-dark">I have never experienced a fast delivery with no error whatsoever. Keep it up DispatchWaves.</p>
                 </div>
                 <div class="position-relative bg-secondary p-4">
                     <i class="fa fa-3x fa-quote-right text-primary position-absolute" style="top: -6px; right: 0;"></i>
@@ -545,7 +545,7 @@
                             <small class="text-dark">- Graphics Editor</small>
                         </div>
                     </div>
-                    <p class="m-0 text-dark">My fragile package was delivered to me in a very good condition. The Cargo-Force Lines is the best.</p>
+                    <p class="m-0 text-dark">My fragile package was delivered to me in a very good condition. The DispatchWaves is the best.</p>
                 </div>
                 <div class="position-relative bg-secondary p-4">
                     <i class="fa fa-3x fa-quote-right text-primary position-absolute" style="top: -6px; right: 0;"></i>
@@ -556,7 +556,7 @@
                             <small class="text-dark">- Preacher</small>
                         </div>
                     </div>
-                    <p class="m-0 text-dark">The accuracy and timing of delivery is top notch. May the Almighty bless and enrich you Cargo-Force Lines.</p>
+                    <p class="m-0 text-dark">The accuracy and timing of delivery is top notch. May the Almighty bless and enrich you DispatchWaves.</p>
                 </div>
             </div>
         </div>
@@ -569,7 +569,7 @@
         <div class="container">
             <div class="text-center pb-2">
                 <h6 class="text-primary text-uppercase font-weight-bold">News & Updates</h6>
-                <h1 class="mb-4">Latest From Cargo-Force Lines</h1>
+                <h1 class="mb-4">Latest From DispatchWaves</h1>
             </div>
             <div class="row">
                 <div class="col-md-6 mb-5">
@@ -592,8 +592,8 @@
                                 <a class="text-muted ml-2" href="">Editor</a>
                             </div>
                         </div>
-                        <h4 class="font-weight-bold mb-3">Cargo-Force Line Express To Uganda</h4>
-                        <p class="text-dark">Cargo-Force Lines is pleased to engage on an express delivery this year to the African nation of Uganda, on the 16 March 2023. Team Uganda is looking forward to our presence on express-vanza.</p>
+                        <h4 class="font-weight-bold mb-3">DispatchWaves Express To Uganda</h4>
+                        <p class="text-dark">DispatchWaves is pleased to engage on an express delivery this year to the African nation of Uganda, on the 16 March 2023. Team Uganda is looking forward to our presence on express-vanza.</p>
                         <p>
                         <a class="border-bottom border-primary text-uppercase text-decoration-none " href="blog.html">Read More <i class="fa fa-angle-right"></i></a>
                         </p>
@@ -619,8 +619,8 @@
                                 <a class="text-muted ml-2" href="">Editor</a>
                             </div>
                         </div>
-                        <h4 class="font-weight-bold mb-3">Cargo-Force Lines in Seafood Global</h4>
-                        <p class="text-dark">cargo-Force Lines is delighted to be a participant of the Seafood Expo 2023, which is the world’s largest seafood trade event, taking place from 25-27 April in Barcelona. Our reefer experts will be at your disposal.</p>
+                        <h4 class="font-weight-bold mb-3">DispatchWaves in Seafood Global</h4>
+                        <p class="text-dark">DispatchWaves is delighted to be a participant of the Seafood Expo 2023, which is the world’s largest seafood trade event, taking place from 25-27 April in Barcelona. Our reefer experts will be at your disposal.</p>
                         <p>
                         <a class="border-bottom border-primary text-uppercase text-decoration-none" href="blog.html">Read More <i class="fa fa-angle-right"></i></a>
                         </p>
@@ -641,7 +641,7 @@
                         <h3 class="text-primary mb-4">Get In Touch</h3>
                         <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
                         <p><i class="fa fa-phone-alt mr-2"></i>(216) 505-0382</p>
-                        <p><i class="fa fa-envelope mr-2"></i>info@cargoforcelines.com</p>
+                        <p><i class="fa fa-envelope mr-2"></i>info@dispatchwaves.com</p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -663,7 +663,7 @@
             </div>
             <div class="col-lg-5 col-md-6 mb-5">
                 <h3 class="text-primary mb-4">Newsletter</h3>
-                <p>Cargo-Force Lines inspires passion, dedication and entrepreneurialism wherever you look. Helping to preserve the Cargo-Force Lines DNA and lead such a successful company into the future is a great honour and a privilege.</p>
+                <p>DispatchWaves inspires passion, dedication and entrepreneurialism wherever you look. Helping to preserve the DispatchWaves DNA and lead such a successful company into the future is a great honour and a privilege.</p>
                 <div class="w-100">
                     <div class="input-group">
                         <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="Your Email Address">
@@ -678,7 +678,7 @@
     <div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
         <div class="row">
             <div class="col-lg-6 text-center text-md-left mb-3 mb-md-0">
-                <p class="m-0 text-white">&copy; <a href="#">cargo-force lines</a>. All Rights Reserved. 
+                <p class="m-0 text-white">&copy; <a href="#">DispatchWaves</a>. All Rights Reserved. 
 				
 				<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
 				<!-- Designed by <a href="https://htmlcodex.com">HTML Codex</a> -->
