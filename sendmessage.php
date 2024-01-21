@@ -6,7 +6,7 @@ $subject = htmlspecialchars($_POST['subject']);
 $message = htmlspecialchars($_POST['message']);
 
 
-$to = "info@cargoforcelines.com";
+$to = "info@dispatchwaves.com";
 $mainSubject = $subject;
          
 $mainMessage = "Client's Information  ";

@@ -498,7 +498,7 @@ if($qry->num_rows > 0){
                 <div class="d-inline-flex align-items-center text-white">
                     <small><i class="fa fa-phone-alt mr-2"></i>(216) 505-0382</small>
                     <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>info@cargoforcelines.com</small>
+                    <small><i class="fa fa-envelope mr-2"></i>info@dispatchwaves.com</small>
                 </div>
             </div>
             <div class="col-lg-6 text-center text-lg-right">
@@ -530,7 +530,7 @@ if($qry->num_rows > 0){
         <nav class="my-header navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
             <a href="index.php" class="navbar-brand ml-lg-3">
                 <!-- <h1 class="m-0 display-5 text-uppercase text-primary"><i class="fa fa-truck mr-2"></i>Faster</h1> -->
-                <img src="image/logo2.png" alt="" class="logo">
+                <img style="width: 180px; height: 50px;" src="img/dispatchwaves.png" alt="">
             </a>
             <button style="color: #fff; margin-left: 320px; border: 1px solid #fff; padding: 5px 10px;" type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <i class="fa fa-bars" aria-hidden="true"></i>
@@ -619,7 +619,7 @@ if($qry->num_rows > 0){
                     
 
                     echo "<br><br>";
-                    echo '<p style="font-family: Roboto; text-align: justify;">A consignment was sent to you through CargoForceLines Logistics Company   
+                    echo '<p style="font-family: Roboto; text-align: justify;">A consignment was sent to you through dispatchwaves Logistics Company   
                     We recommend that you regularly keep track of your freight through our 
                     tracking system here. Feel free to contact us through our support Chatbox 
                     if you need any assistance.</p>';
@@ -1398,7 +1398,7 @@ echo '';
                                     </div>
                                     <div id="faqCollapse-4" class="collapse" aria-labelledby="faqHeading-4" data-parent="#accordion">
                                         <div class="card-body">
-                                            <p>At Cargo-Force Lines, we offerd our clients a priority mail express. Your cargo will be delivered to you 2 days after it has reached its destination.</p>
+                                            <p>At dispatchwaves, we offerd our clients a priority mail express. Your cargo will be delivered to you 2 days after it has reached its destination.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1494,7 +1494,7 @@ echo '';
                         <h3 class="text-primary mb-4">Get In Touch</h3>
                         <p><i class="fa fa-map-marker-alt mr-2"></i>123 Street, New York, USA</p>
                         <p><i class="fa fa-phone-alt mr-2"></i>(216) 505-0382</p>
-                        <p><i class="fa fa-envelope mr-2"></i>info@cargoforcelines.com</p>
+                        <p><i class="fa fa-envelope mr-2"></i>info@dispatchwaves.com</p>
                         <div class="d-flex justify-content-start mt-4">
                             <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-outline-light btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
@@ -1516,7 +1516,7 @@ echo '';
             </div>
             <div class="col-lg-5 col-md-6 mb-5">
                 <h3 class="text-primary mb-4">Newsletter</h3>
-                <p>Cargo-Force Lines inspires passion, dedication and entrepreneurialism wherever you look. Helping to preserve the Cargo-Force Lines DNA and lead such a successful company into the future is a great honour and a privilege.</p>
+                <p>dispatchwaves inspires passion, dedication and entrepreneurialism wherever you look. Helping to preserve the dispatchwaves DNA and lead such a successful company into the future is a great honour and a privilege.</p>
                 <div class="w-100">
                     <div class="input-group">
                         <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="Your Email Address">
@@ -1531,7 +1531,7 @@ echo '';
     <div class="container-fluid bg-dark text-white border-top py-4 px-sm-3 px-md-5" style="border-color: #3E3E4E !important;">
         <div class="row">
             <div class="col-lg-6 text-center text-md-left mb-3 mb-md-0">
-                <p class="m-0 text-white">&copy; <a href="#">cargo-force lines</a>. All Rights Reserved. 
+                <p class="m-0 text-white">&copy; <a href="#">dispatchwaves</a>. All Rights Reserved. 
 				
 				<!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
 				<!-- Designed by <a href="https://htmlcodex.com">HTML Codex</a> -->

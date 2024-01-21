@@ -135,7 +135,7 @@
         <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-lg-5">
             <a href="index.php" class="navbar-brand ml-lg-3">
                 <!-- <h1 class="m-0 display-5 text-uppercase text-primary"><i class="fa fa-truck mr-2"></i>Faster</h1> -->
-                <img style="width: 160px; height: 70px;" src="img/logo2.png" alt="">
+                <img style="width: 180px; height: 50px;" src="img/dispatchwaves.png" alt="">
             </a>
             <button style="margin-left: 310px; border: 1px solid #000;" type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
