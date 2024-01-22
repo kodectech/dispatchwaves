@@ -84,18 +84,18 @@ file_put_contents("file.pdf", $output);
 
 //Sending the Email Starts Here;
 
-    $message = "Hi, " . $receivername . "\r\n\r\n" ."Welcome to CargoForceLines,"." we bring to your notice that " ."your Parcel Has been Received, Kindly Download your invoice and keep track of your package." . "\r\n\r\n"; 
+    $message = "Hi, " . $receivername . "\r\n\r\n" ."Welcome to dispatchwaves,"." we bring to your notice that " ."your Parcel Has been Received, Kindly Download your invoice and keep track of your package." . "\r\n\r\n"; 
 
     $message .= 'Carefully copy your Consignment Number and visit our tracking page to see the progress of your Parcel.' . "\r\n\r\n";
 
     $message .= "Consignment Number: " . $refcode . "\r\n\r\n";
-    $message .= "Tracking Page: " . "http://cargoforcelines.com/trace_form.php" . "\r\n\r\n";
+    $message .= "Tracking Page: " . "http://dispatchwaves.com/trace_form.php" . "\r\n\r\n";
     $message .= "Thank you for engaging our services." . "\r\n\r\n";
     $message .="If you do not request any of this services, kindly ignore this message.";
     
-    $subject ="Package now on CargoForceLines Custody";
-    $fromname ="CargoForceLines";
-    $fromemail = 'info@cargoforcelines.com';  //if u dont have an email create one on your cpanel
+    $subject ="Package now on dispatchwaves Custody";
+    $fromname ="dispatchwaves";
+    $fromemail = 'info@dispatchwaves.com';  //if u dont have an email create one on your cpanel
     $mailto = $receiveremail;  //the email which u want to recv this email
     $content = file_get_contents("file.pdf");
     $content = chunk_split(base64_encode($content));
@@ -146,7 +146,7 @@ file_put_contents("file.pdf", $output);
 
 // ================= Whatsapp API ===========
 //receipt link
-//$receipt = "https://cargoforcelines.com/file.pdf";
+//$receipt = "https://dispatchwaves.com/file.pdf";
 
 //sending whatsapp message
 //Authentication
